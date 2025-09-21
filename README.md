@@ -1,4 +1,4 @@
-# Regresion_LinealRegresion_Lineal
+# Regresion_Lineal
 
 JIMENEZ_RUEDA_ANDRES_CODIGO_111032
 
